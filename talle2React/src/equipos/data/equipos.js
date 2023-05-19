@@ -27,7 +27,7 @@ export const equipos = [
         'id': 'equ_4',
         'equipo':'Atletico Nacional', 
         'liga':'FPC Colombiano', 
-        'copas':'22 veces campeon',
+        'copas':'32 veces campeon',
         'nacimiento':'1947',
         'url': 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Escudo_de_Atl%C3%A9tico_Nacional.png/418px-Escudo_de_Atl%C3%A9tico_Nacional.png'
     },

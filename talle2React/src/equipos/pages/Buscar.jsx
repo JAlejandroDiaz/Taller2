@@ -1,7 +1,7 @@
 import { EquipoListLigas } from "../components"
 
 export const Buscar = () => {
-  var busqueda = "Española"
+  var busqueda = "FPC Colombiano"
  
   return (
     <>
